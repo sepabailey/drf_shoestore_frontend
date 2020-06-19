@@ -1,3 +1,8 @@
+Link to Backend:
+https://github.com/sepabailey/drf_shoestore
+
+Author: Sean Bailey, Co-authors: Koren Nyles, Chris Wilson
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
